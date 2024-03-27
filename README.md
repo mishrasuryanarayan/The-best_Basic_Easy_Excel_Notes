@@ -1,4 +1,4 @@
-Excel PDF Notes Repository
+Excel Notes 
 ============================================================================================================
 Welcome to the Excel PDF Notes repository! This repository hosts a collection of PDF notes derived from Excel 
 spreadsheets covering a wide range of topics including data analysis, financial modeling, and more.
